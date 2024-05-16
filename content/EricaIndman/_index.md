@@ -1,0 +1,3 @@
+# Erica Indman
+
+Hi, My name is Erica Indman, and I'm a Computer Science and Business Administration major and French minor at Northeastern University!
