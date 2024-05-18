@@ -1,5 +1,5 @@
 ---
-title: "Project - Devliberable I"
+title: "Project - Deliverable 1"
 date: 2024-05-17
 draft: false
 description: "Our Idea"
@@ -13,7 +13,7 @@ showAuthorsBadges : true
 
 # Project Proposal
 
-The purpose of our app is to allow users to better inform themselves and plan the most cost-effective trips so that travel can be more accessible for everyone. Users can plan the best time to travel to their desired location by predicting information about flights, hotels, and currency exchanges. Our app has a deal administrator, which allows hotel companies and airlines to add in promo deals on their chosen dates. Lastly, our app will allow third-party advertisements from any firm to generate revenue for our app. 
+The purpose of our app is to allow users to better inform themselves and plan the most cost-effective trips so that travel can be more accessible for everyone. Users can plan the best time to travel to their desired location by using our app's predictions on information about flights, hotels, and currency exchanges. Our app has a deal administrator, which allows hotel companies and airlines to add in promo deals on their chosen dates. Lastly, our app will allow third-party advertisements from any firm to generate revenue for our app. 
 
 Our app will begin by asking the user if they want general suggestions on hotels and flights for their trip or if they want to know if their travel plan is cost-effective or not. For the former scenario, the user will be prompted to enter a location and timeframe, and using regression modeling based on past hotel and airline costs and current currency exchange rates, the user will be given a date for the travel day as well as hotel and airline suggestions. For the latter case, the user will input their desired location date of travel, and the app will tell them if their date is “good,” meaning that their plan is cost-effective compared to surrounding dates. 
 
