@@ -3,7 +3,6 @@ title: "Project - Devliberable I"
 date: 2024-05-22
 draft: false
 description: "Our Idea"
-slug: "deliverable1post"
 tags: ["authors", "config", "docs"]
 authors:
   - "frani_pendus"
