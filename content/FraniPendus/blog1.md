@@ -1,6 +1,6 @@
 ---
 title: "Indivudal Blog #1"
-date: 2024-05-22
+date: 2024-05-17
 draft: false
 description: "EEAS Visit"
 tags: ["authors", "config", "docs"]
