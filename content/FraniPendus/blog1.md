@@ -11,6 +11,8 @@ showAuthorsBadges : true
 ---
 
 # MySQL
+![alt text](https://ejpress.org/wp-content/uploads/2020/11/eeas.jpg)
+
 
 The most intriguing experience I have had so far in Belgium was going to the EEAS, European Union External Action Service. Located in Brussels, the EEAS has 2300 people who perform diplomatic services and coordinate compromises among nations.  
 
