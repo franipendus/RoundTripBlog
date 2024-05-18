@@ -10,11 +10,12 @@ authors:
 showAuthorsBadges : true
 ---
 
-# MySQL
+# Indivudal Blog #1
+## European External Action Service
 ![alt text](https://ejpress.org/wp-content/uploads/2020/11/eeas.jpg)
 
 
-The most intriguing experience I have had so far in Belgium was going to the EEAS, European Union External Action Service. Located in Brussels, the EEAS has 2300 people who perform diplomatic services and coordinate compromises among nations.  
+The most intriguing experience I have had so far in Belgium was going to the EEAS, European External Action Service. Located in Brussels, the EEAS has 2300 people who perform diplomatic services and coordinate compromises among nations.  
 
 One area the EEAS has more recently been focusing on is creating digital governance through comprehensive policies that are implemented throughout the European Union. The quantity and sophistication of cyber security threats has significantly increased in the last ten years, with the top threats being DDos and ransomware and the top sector affected being public administration. 
 
