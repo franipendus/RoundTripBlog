@@ -1,6 +1,6 @@
 ---
 title: "Project - Devliberable I"
-date: 2024-05-22
+date: 2024-05-18
 draft: false
 description: "Our Idea"
 tags: ["authors", "config", "docs"]
