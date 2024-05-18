@@ -3,7 +3,6 @@ title: "Indivudal Blog #1"
 date: 2024-05-22
 draft: false
 description: "EEAS Visit"
-# slug: "first"
 tags: ["authors", "config", "docs"]
 authors:
   - "frani_pendus"
