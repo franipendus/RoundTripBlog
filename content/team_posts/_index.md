@@ -6,10 +6,11 @@ description: "Our Idea"
 tags: ["authors", "config", "docs"]
 slug: "index"
 authors:
-  - "eric_gerber"
+  - "frani_pendus"
+  - "erica_indman"
+  - "nalika_palayoor"
 showAuthorsBadges : false
 ---
 
-# Welcome to Team WeCanDoThis!
+# Welcome to RoundTrip: our travel app!
 
-Welcome to the Professorial Team's Blog
