@@ -57,10 +57,9 @@ Elliott is a 56-year-old Hilton budgeting executive from London, UK. He has allo
 
 # Questions
 * What is the best time (price-wise) to travel to a given location?
-    This is an interesting question because it allows a user to choose where they want to go and a time range when they can travel to their desired location. The user receives the best prices to go to their destination, giving them the chance to optimize their savings while traveling. Furthermore, it allows for an analysis of travel patterns that involve aspects like hotels, currency, and flights that fluctuate on a day to day basis.
-* Is the user’s chosen travel date a ‘good’ time to travel? 
-    * (based on prices of surrounding times)
-    This is an interesting question because being able to check if your chosen travel date is ‘worth it’ or not could help users make sure that they are choosing a financially conscious date to travel on. This way, they will be sure that they made a good choice, or if they didn’t, will be able to use our app to determine a better date.
+   * This is an interesting question because it allows a user to choose where they want to go and a time range when they can travel to their desired location. The user receives the best prices to go to their destination, giving them the chance to optimize their savings while traveling. Furthermore, it allows for an analysis of travel patterns that involve aspects like hotels, currency, and flights that fluctuate on a day to day basis.
+* Is the user’s chosen travel date a ‘good’ time to travel? *(based on prices of surrounding times)*
+    * This is an interesting question because being able to check if your chosen travel date is ‘worth it’ or not could help users make sure that they are choosing a financially conscious date to travel on. This way, they will be sure that they made a good choice, or if they didn’t, will be able to use our app to determine a better date.
 
 # Data Sets 
 * Hotels 
