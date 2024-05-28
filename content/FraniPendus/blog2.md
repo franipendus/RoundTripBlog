@@ -2,7 +2,7 @@
 title: "Indivudal Blog #2"
 date: 2024-05-27
 draft: false
-description: "Phase II Contributions"
+description: "Phase II"
 tags: ["authors", "config", "docs"]
 authors:
   - "frani_pendus"
