@@ -60,7 +60,10 @@ Linked below are our new data sets for ML modeling:
 # Project Advancements
 
 ### Data visualization 
-
+![](dm1.jpeg)
+![](dm2.jpeg)
+![](dm3.jpeg)
+![](dm4.jpeg)
 ### Preliminary ML model
 
 ### Localized ER diagrams 
