@@ -1,5 +1,5 @@
 ---
-title: "First Blog- Beguinages"
+title: "Second Blog Post"
 date: 2024-05-27
 draft: false
 description: "Contributions To Deliverable 2"
