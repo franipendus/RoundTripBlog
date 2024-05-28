@@ -29,7 +29,7 @@ Maria is a 22-year-old travel enthusiast from Rome, Italy. She is a student who 
 
 - As a user, I want to be able to test a specific travel date to see if it is a good time to go (based on prices) so that I can avoid wasting money by going at the wrong time.
 
-- As a user, I want to be recommended airlines with deals around my travel days so that I won’t miss any offers and can take advantage of them.
+- As a user, I want to be recommended airlines with hotel deals around my travel days so that I won’t miss any offers and can take advantage of them.
 
 ## User Persona 2: Gabriel
 Gabriel is a 38-year-old professional at a company in Boston, USA. He is looking to buy ad space in an app with millions of monthly visitors like ours. His goal is to promote his company on an effective platform. 
