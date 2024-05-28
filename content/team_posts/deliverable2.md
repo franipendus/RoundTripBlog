@@ -63,6 +63,7 @@ Linked below are our new data sets for ML modeling:
 ![](dm2.jpeg)
 ![](dm3.jpeg)
 ![](dm4.jpeg)
+
 ### Preliminary ML model
 ![](def1.png)
 ![](def2.png)
@@ -70,6 +71,7 @@ Linked below are our new data sets for ML modeling:
 ![](ml1.png)
 ![](ml2.png)
 ![](ml3.png)
+
 ### Localized ER diagrams 
 ![](travelers.png)
 ![](ads.png)
