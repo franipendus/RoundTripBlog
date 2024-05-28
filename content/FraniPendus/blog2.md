@@ -10,7 +10,7 @@ showAuthorsBadges : true
 ---
 
 # Indivudal Blog #2
-## Phase II Contributions
+
 
 
 	During this phase of the project, my team and I revised our initial proposal as well as continued advancing our app. On the Data Science side, the data was cleaned, and a proof of concept was created for a regression model. On the Computer Science side, the localized data models for our three user personas were created and integrated into a global data model, and the based SQL DDL (created table statements) was written.
