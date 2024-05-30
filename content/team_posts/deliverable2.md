@@ -88,5 +88,18 @@ Based on the Mean Squared Error and R2 shown above, we can see that this model n
 ### Global ER model 
 ![](GLOBAL.png)
 
+### Wireframes for POC
+![](landing.png)
+![](t.png)
+![](tt.png)
+![](tc.png)
+![](tp.png)
+![](ad.png)
+![](adinfo.png)
+![](adimp.png)
+![](d.png)
+![](di.png)
+![](dimp.png)
+
 ### SQL for global data model 
 https://github.com/franipendus/roundTrip/blob/main/databaseInit.sql
