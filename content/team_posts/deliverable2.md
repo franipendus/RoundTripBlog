@@ -30,6 +30,8 @@ Due to sourcing data, our app is now going to be a price of trip predictor based
 * Brussels, Belgium
     * BRU- Brussels-Zaventem Airport
 
+These airports were chosen based on their prominence as major travel hubs and the popularity of their locations as travel destinations.
+
 The user will input a date and we will predict the price of that trip based on quarterly gdp data, flight and hotel prices. 
 
 ### Interesting questions
@@ -61,8 +63,13 @@ Linked below are our new data sets for ML modeling:
 
 ### Data visualization 
 ![](dm2.jpeg)
+Based on this graph, we can see that flying out of JFK is generally more expensive than any other airport, and that flying out of CDG has the most variability in prices.
+
 ![](dm3.jpeg)
+Judging by this graph, we can tell that flying into JFK is generally more expensive than any other airport, similary to flying out of it. This can lead to the assumption that flights in/out of New York will tend to be on the high end of the price range, which we will confirm with further analysis. CDG also has the most price variability here, same as with flying out of it.
+
 ![](dm4.jpeg)
+According to this graph, 
 
 ### Preliminary ML model
 ![](def1.png)
@@ -71,6 +78,7 @@ Linked below are our new data sets for ML modeling:
 ![](ml1.png)
 ![](ml2.png)
 ![](ml3.png)
+Based on the Mean Squared Error and R2 shown above, we can see that this model needs a lot of work. The R2 is very low and the MSE is very high, which we will correct by adding more variables to our model and working on making the data more true to life.
 
 ### Localized ER diagrams 
 ![](travelers.png)
