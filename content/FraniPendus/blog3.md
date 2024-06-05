@@ -6,7 +6,7 @@ description: "Weekend in Luxembourg"
 tags: ["authors", "config", "docs"]
 authors:
   - "frani_pendus"
-showAuthorsBadges : true
+showAuthorsBadges : false
 ---
 
 # Indivudal Blog #3
