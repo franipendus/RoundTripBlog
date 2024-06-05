@@ -69,7 +69,7 @@ When creating the machine learning models, the first issue we encountered was th
 In addition, when we ran the model the first time, it predicted a very large negative number for the hotel's cost. After playing around with the features, we figured out that we were using too many features and potentially overfitting the model. After thinking more about which features would make sense to predict price, we were able to get the model to predict a more reasonable estimate. 
 
 ## API routes:
-Travelers' routes:
+### Travelers' routes:
 * /travelers/trips/<traveler_id>
     * gets the trips of a specific traveler  
 * /travelers/trips
@@ -85,7 +85,7 @@ Travelers' routes:
 * ![](d3t3.png)
 * ![](d3t4.png)
 
-Advertisers' routes:
+### Advertisers' routes:
 * /advertisers/adinfo/<advertiser_id>
     * gets all ads posted by a specific advertiser
 * /advertisers/adinfospecific/<ad_id>
@@ -118,7 +118,7 @@ Deal Administrators' routes:
 * ![](d3d3.png)
 * ![](d3d4.png)
 
-ML Model Routes:
-* /model/1/<v1>/<v2>/<v3>/<v4>/<v5>
+### ML Model Routes:
+* /model/1/<v1/v2/v3/v4/v5>
     * predicts hotel price 
 * ![](d3t5.png)
