@@ -1,5 +1,5 @@
 ---
-title: "Indivudal Blog #2"
+title: "Individual Blog #2"
 date: 2024-05-27
 draft: false
 description: "Phase II"
@@ -9,7 +9,7 @@ authors:
 showAuthorsBadges : true
 ---
 
-# Indivudal Blog #2
+# Individual Blog #2
 ## Project Phase II Contributions
 
 

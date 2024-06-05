@@ -1,5 +1,5 @@
 ---
-title: "Indivudal Blog #1"
+title: "Individual Blog #1"
 date: 2024-05-17
 draft: false
 description: "EEAS Visit"
@@ -9,7 +9,7 @@ authors:
 showAuthorsBadges : true
 ---
 
-# Indivudal Blog #1
+# Individual Blog #1
 ## European External Action Service
 ![alt text](https://ejpress.org/wp-content/uploads/2020/11/eeas.jpg)
 

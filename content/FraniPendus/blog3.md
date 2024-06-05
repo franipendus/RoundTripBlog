@@ -1,6 +1,6 @@
 ---
-title: "Indivudal Blog #3"
-date: 2024-06-5
+title: "Individual Blog #3"
+date: 2024-06-05
 draft: false
 description: "Weekend in Luxembourg"
 tags: ["authors", "config", "docs"]
@@ -9,7 +9,7 @@ authors:
 showAuthorsBadges : false
 ---
 
-# Indivudal Blog #3
+# Individual Blog #3
 ## Luxembourg
 ![](lux.jpeg)
 
