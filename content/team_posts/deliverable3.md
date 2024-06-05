@@ -1,5 +1,5 @@
 ---
-title: "Project - Deliverable "
+title: "Project - Deliverable 3"
 date: 2024-05-27
 draft: false
 description: "Updates /& Advancements"
@@ -69,21 +69,56 @@ When creating the machine learning models, the first issue we encountered was th
 In addition, when we ran the model the first time, it predicted a very large negative number for the hotel's cost. After playing around with the features, we figured out that we were using too many features and potentially overfitting the model. After thinking more about which features would make sense to predict price, we were able to get the model to predict a more reasonable estimate. 
 
 ## API routes:
+Travelers' routes:
+* /travelers/trips/<traveler_id>
+    * gets the trips of a specific traveler  
+* /travelers/trips
+    * updates a specific trip's start and end dates 
+* /travelers/countries/<country>
+    * gets a specific country's information
+* /travelers/promotions/<city>
+    * retrieves hotel deals for a specific city
+* /travelers/favhotels/<city>/<traveler_id>
+    * gets a specific traveler's favorite hotels in a specific city
+* ![](d3t1.png)
+* ![](d3t2.png)
+* ![](d3t3.png)
+* ![](d3t4.png)
 
-Hotels: https://www.kaggle.com/datasets/mykhailozub/500-hotels-from-airbnb-booking-and-hotelscom/versions/
-- Purpose: Contains information on hotels (such as rating, cost, type, etc.) for numerous European countries. We pulled the necessary data for our 4 countries. 
+Advertisers' routes:
+* /advertisers/adinfo/<advertiser_id>
+    * gets all ads posted by a specific advertiser
+* /advertisers/adinfospecific/<ad_id>
+    * gets the ad information for a specific ad 
+* /advertisers/adimp/<ad_id>
+    * gets the ad impressions for a specific ad
+* /advertisers/adimp/trav/<traveler_id>
+    * gets all add impressions made by a specific traveler
+* /advertisers/adinfo
+    * posts a new ad 
+* /advertisers/adinfo/<ad_id>
+    * deletes a specific ad
+* ![](d3a1.png)
+* ![](d3a2.png)
+* ![](d3a3.png)
+* ![](d3a4.png)
+* ![](d3a9.png)
 
-GDP: https://data-explorer.oecd.org/vis?lc=en&tm=quarterly%20gdp&pg=0&snb=41&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_NAMAIN1%40DF_QNA_EXPENDITURE_CAPITA&df[ag]=OECD.SDD.NAD&df[vs]=1.0&lo=5&lom=LASTNPERIODS&dq=Q............&ly[rw]=REF_AREA&ly[cl]=TIME_PERIOD&to[TIME_PERIOD]=false&vw=tb
-- Purpose: Contains past quarterly GDP data for many countries. We are using the 2023 data to help train our ML models. We won't be able to use this API to output the current GDP values because it only contains past GDP data. 
+Deal Administrators' routes:
+* /dealadmin/deals/<dealadmin_id>
+    * gets all deals posted by a specific deal administrator
+* /dealadmin/dealinfospecific/<hotel_id>
+    * gets all deals posted about a specific hotel
+* dealadmin/dealimps/<deal_id>
+    * gets all deal impressions about a specific deal 
+* /dealadmin/dealimps/trav/<traveler_id>
+    * gets all deal impressions made by a specific traveler
+* ![](d3d1.png)
+* ![](d3d2.png)
+* ![](d3d3.png)
+* ![](d3d4.png)
 
-Flights: https://developers.amadeus.com/self-service/category/flights/api-doc/flight-cheapest-date-search/api-reference
-- Purpose: Contains possible flights for traveling to and from numerous places. We pulled the data for all combinations of the places we needed. 
-
-
-
-
-
-
-
-
-
+ML Model Routes:
+* /model/1/<v1>/<v2>/<v3>/<v4>/<v5>
+    * predicts hotel price 
+* ![](d3t5.png)
