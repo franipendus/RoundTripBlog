@@ -37,7 +37,7 @@ After looking further into data availability, users will be able to be able to g
 - adImpressions → generated
 
 
-
+## Models
 We will create two machine learning models that will be able to predict information for the users:
 
 1.  ML model 1: Hotel cost prediciton
@@ -50,8 +50,25 @@ We will create two machine learning models that will be able to predict informat
         4.  GDP: Safer places will likely cost more than less safe places
 
     - We will predict the cost of the hotel. We will also output the current GDP based on the month they are traveling to.
+    - Model 1 is currently active and passes our assumption checks, though it could use some fine tuning which we will work on. 
+### Assumption Checks
+* ![](flights_resids.png)
+After graphing the flight price residuals, we are happy with the homoscedasticity and linearity, as the data looks well spread out
 
-3.  ML model 2: Airline cost prediction
+* ![](rating_resids.png)
+Based on the hotel rating residuals, we are also happy with the homoscedasticity and linearity, at least when ignoring the outlier. 
+
+* ![](gdp_resids.png)
+The plot of GDP residuals shows some kind of pattern in their distribution that we cannot account for at the moment, but will expore.
+
+* ![](model_stats.png)
+Based on the R2 and MSE of our model, it is acceptable for the moment, but we will try to raise the R2 and lower the MSE if possible. 
+
+
+
+
+
+2.  ML model 2: Airline cost prediction
 
     -   User inputs: origin, destination, month of travel, desired hotel rating, and hotel cost
     -   Features/reason for choosing this feature:
@@ -81,7 +98,8 @@ In addition, when we ran the model the first time, it predicted a very large neg
 * /travelers/favhotels/<city>/<traveler_id>
     * gets a specific traveler's favorite hotels in a specific city
 * ![](d3t1.png)
-* ![](d3t2.png)
+* ![](fav_hotels.png)
+* ![](uptrip.jpeg)
 * ![](d3t3.png)
 * ![](d3t4.png)
 
@@ -98,7 +116,7 @@ In addition, when we ran the model the first time, it predicted a very large neg
     * posts a new ad 
 * /advertisers/adinfo/<ad_id>
     * deletes a specific ad
-* ![](d3a1.png)
+* ![](del.jpeg)
 * ![](d3a2.png)
 * ![](d3a3.png)
 * ![](d3a4.png)
@@ -121,4 +139,4 @@ Deal Administrators' routes:
 ### ML Model Routes:
 * /model/1/<v1/v2/v3/v4/v5>
     * predicts hotel price 
-* ![](d3t5.png)
+* ![](cp.jpeg)
