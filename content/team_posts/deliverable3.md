@@ -21,26 +21,22 @@ After looking further into data availability, users will be able to be able to g
 - main_df.csv → full data set of all quarterly flight, hotel, and GDP data we collected for every combination of the four countries (sourced)
 - Countries → sourced
 - Airports → sourced
+- Travelers → generated
 - Airlines → generated
-- employees → generated
-- customers → generated
-- inventory_transaction_types → generated
-- inventory_transactions → generated
-- invoices → generated
-- order details → generated
-- order_details_status → generated
-- orders → generated
-- orders_status → generated
-- orders_tax_status → generated
-- privileges → generated
-- products → generated
-- purchase_order_details → generated
-- purchase_order_status → generated
-- purchase_orders → generated
-- sales_reports → generated
-- shippers → generated
-- strings → generated
-- suppliers → generated
+- Flights → generated
+- Trips → generated
+- flightBookings → generated
+- dealAdministrators → generated
+- hotels → sourced
+- hotelBookings → generated
+- favHotels → generated
+- dealInfo → generated
+- dealImpressions → generated
+- advertisers → generated
+- adInfo → generated
+- adImpressions → generated
+
+
 
 We will create two machine learning models that will be able to predict information for the users:
 
