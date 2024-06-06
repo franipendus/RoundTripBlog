@@ -11,7 +11,8 @@ showAuthorsBadges : false
 
 # Individual Blog #3
 ## Luxembourg
-![](lux.jpeg)
+![alt text](https://drive.google.com/file/d/1FT1qlJxPwhuAD3Ds4-6WX4oaBaxCXTdh/view?usp=drive_link)
+
 
 This past week in the dialogue has been my favorite because we got to go to Luxembourg. Luxembourg was beautiful and it was one of my favorite cities that I’ve ever visited. We arrived Friday night,  had a group dinner at the hotel and then played hide and seek and manhunt in the backyard. All our windows all opened up to the yard, so like the kids we are, naturally we climbed through them. 
 

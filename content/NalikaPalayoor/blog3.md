@@ -1,6 +1,6 @@
 ---
 title: "Indivudal Blog #3"
-date: 2024-05-20
+date: 2024-06-05
 draft: false
 description: "Blog 3"
 tags: ["authors", "config", "docs"]
