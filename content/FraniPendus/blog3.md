@@ -33,5 +33,6 @@ In terms of the project, I created all of the tables and generated all of the fa
 * 1 x 'post'
 * 1 x 'delete'
 * 9 x 'get'
+
 In my opinion, the 'get' and 'delete' routes were easy to implement; however, the 'post' and 'put' were VERY difficult for me and required a lot of time due to the string formatting, specifically pertaining to dates. It took me around 3 hours of staring at the code and getting help to realize I was missing a couple *single* quotation marks. 
 In the end, it did work out and it was so satisfying to see the code I wrote "behind the scenes" performing tasks the user wanted. 
