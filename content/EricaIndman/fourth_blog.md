@@ -23,7 +23,7 @@ Then, I made an array of all the user inputs and then we called the database aga
 
 Besides finally finishing this project, the other highlight of this week was the soccer game that we went to and got to cheer for Belgium at. I’ve never been to a soccer game and generally don’t go to sports games at all (besides horseback riding competitions) so it was a new experience for me and I’m glad I got to do it abroad and have fun with it!
 
-![](game.jpeg)
+![](soccer.jpg)
 
 This whole experience was so great and even though it felt like a fever dream sometimes I can definitely say I learned so much here and before taking this class I never would have thought that I would be able to do the things I've done for this project. Being in Belgium made it even better and I know I'm going to miss it so much when I leave, I'm so grateful for this opportunity. 
 
