@@ -27,3 +27,11 @@ After the hike, we crossed the bridge from Schengen, Luxembourg to Perl, Germany
 Sunday, I went to Lake Echternach with the intention to swim in it. However, upon arriving, I realized I really did not want to swim in that water as I could see a plethora of bugs and algae. Regardless, I got to walk around the lake and took in the views of nature once again.
 
 Monday, we finally returned back to Leuven. Even though I was so sad to say bye to Luxembourg, I know it is a place I will definitely go back to.
+
+In terms of the project, I created all of the tables and generated all of the fake data. I added them into the database section on VS Code so that I could begin write the api routes. I wrote 12 api routes:
+* 1 x 'put'
+* 1 x 'post'
+* 1 x 'delete'
+* 9 x 'get'
+In my opinion, the 'get' and 'delete' routes were easy to implement; however, the 'post' and 'put' were VERY difficult for me and required a lot of time due to the string formatting, specifically pertaining to dates. It took me around 3 hours of staring at the code and getting help to realize I was missing a couple *single* quotation marks. 
+In the end, it did work out and it was so satisfying to see the code I wrote "behind the scenes" performing tasks the user wanted. 
