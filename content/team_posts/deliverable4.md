@@ -45,7 +45,7 @@ Our database, RoundTrip, has 19 tables and more than 3000 data entries. Our midd
 
 ## **Database Model:**
 *The initial database model* : 
-![](GLOBAL.png)
+![](GLOBAL.png) 
 
 *The final database model*: 
 ![](finaldbmodel.png)
